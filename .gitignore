@@ -1,0 +1,10 @@
+# FAST output files
+*.fsm
+*.opt
+*.out
+*.outb
+*.acf
+*.adm
+*.elm
+*.lin
+
